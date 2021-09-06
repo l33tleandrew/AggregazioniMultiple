@@ -1,0 +1,4 @@
+index:
+  path: /index
+  controller: App\Controller\ActivityController::index
+  methods: [GET, HEAD]

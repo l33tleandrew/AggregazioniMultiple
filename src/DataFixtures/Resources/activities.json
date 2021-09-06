@@ -1,0 +1,38 @@
+[
+  {
+    "project": 1,
+    "employee": 1,
+    "date": "2021-08-26T22:00:00.000Z",
+    "hours": 5
+  },
+  {
+    "project": 2,
+    "employee": 2,
+    "date": "2021-08-30T22:00:00.000Z",
+    "hours": 3
+  },
+  {
+    "project": 1,
+    "employee": 1,
+    "date": "2021-08-31T22:00:00.000Z",
+    "hours": 3
+  },
+  {
+    "project": 1,
+    "employee": 3,
+    "date": "2021-08-31T22:00:00.000Z",
+    "hours": 3
+  },
+  {
+    "project": 2,
+    "employee": 1,
+    "date": "2021-08-26T22:00:00.000Z",
+    "hours": 2
+  },
+  {
+    "project": 2,
+    "employee": 2,
+    "date": "2021-08-31T22:00:00.000Z",
+    "hours": 4
+  }
+]
